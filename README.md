@@ -3,11 +3,11 @@
 This is a simple full-stack network simulator that allows users to create and connect basic network objects such as hosts, routers, and switches. The frontend provides a visual interface for interacting with the network, while the backend handles storage and API communication. Nodes and links are currently placeholders and do not simulate real networking behavior yet.
 
 ## Running the App (Dev)
-`cd frontend`
-`npm install`
-`npm start`
-`cd backend`
-`npm install`
+`cd frontend`\
+`npm install`\
+`npm start`\
+`cd backend`\
+`npm install`\
 `npm run dev`
 
 ## Features (Phase 1)
